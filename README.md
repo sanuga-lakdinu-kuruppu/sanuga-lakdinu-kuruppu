@@ -1,4 +1,3 @@
-
 # Hi there! 👋 I'm Sanuga Kuruppu
 
 🎓 Software Engineering Undergrad at [NIBM](https://www.nibm.lk/) | 🧠 Machine Learning Enthusiast
