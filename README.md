@@ -1,7 +1,3 @@
-<!-- Header Section -->
-<p align="center">
-  <img src="path-to-your-profile-image" width="150" height="150">
-</p>
 
 # Hi there! 👋 I'm Sanuga Kuruppu
 
