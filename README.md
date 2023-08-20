@@ -1,40 +1,46 @@
-# Hello, I'm [Your Name] 👋
+<!-- Header Section -->
+<p align="center">
+  <img src="path-to-your-profile-image" width="150" height="150">
+</p>
 
-Passionate Developer | Open Source Enthusiast | Tech Enthusiast
+# Hi there! 👋 I'm Sanuga Kuruppu
 
-Welcome to my GitHub profile! I'm a developer with a passion for crafting clean code and building meaningful software. With experience in various technologies, I'm always excited to learn and explore new things.
+🎓 Software Engineering Undergrad at [NIBM](https://www.nibm.lk/) | 🧠 Machine Learning Enthusiast
 
-## 🔭 Current Projects
+Welcome to my GitHub world! I'm passionate about machine learning, data engineering, and all things tech. Currently pursuing my Bsc (Hons) Computing from Coventry University in the UK, with a focus on turning data into actionable insights.
 
-- [Project 1](link-to-project-1) - Brief description of Project 1.
-- [Project 2](link-to-project-2) - Brief description of Project 2.
-- [Project 3](link-to-project-3) - Brief description of Project 3.
+## 🚀 Quick Highlights
 
-## 🌱 What I'm Learning
+- 🌱 Learning: Machine Learning | Data Engineering
+- 📚 Medium: Check out my tech articles on [Medium](https://medium.com/@sanugakuruppu.info)
+- 💼 LinkedIn: Connect with me on [LinkedIn](https://www.linkedin.com/in/sanuga-kuruppu-072977257/)
+- 🏆 Certificates: [Coursera](https://www.coursera.org/account/accomplishments/verify/XBXX4K6GZ484?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course)
 
-I'm constantly learning and growing as a developer. Some of the technologies I'm currently focusing on include:
+## 🧐 Currently Exploring
 
-- [Technology 1](link-to-technology-1) - Why I'm excited about Technology 1.
-- [Technology 2](link-to-technology-2) - How I'm incorporating Technology 2 in my projects.
+- 🔍 Machine Learning Algorithms: Regression, Classification, and more
+- 🛢️ Data Engineering: Processing, transforming, and storing data
+- 🤖 AI Ethics: Navigating the ethical implications of AI technologies
 
-## 👯 Let's Collaborate
+## 🛠️ Technical Skills
 
-I'm always open to collaborating on exciting projects. If you're working on something cool, let's join forces and create something amazing!
+- 🤖 Machine Learning
+- 🏢 Data Warehousing and Data Mining
+- 📱 Flutter Framework
+- 🚀 Dart, Java, Python
 
-## 💬 Contact Me
+## 🚀 Projects
 
-Feel free to reach out to me via [Email](mailto:youremail@example.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/yourusername/).
+- [Freshpick Platform](https://github.com/sanuga-lakdinu-kuruppu/fresh_pick_seller): A brief description and impact of Freshpick Platform.
+- [Regressify Prediction Application](https://github.com/sanuga-lakdinu-kuruppu/Regressify): How Regressify showcases my machine learning skills.
+- [Multilevel Thresholding Algorithm Implementation](https://github.com/sanuga-lakdinu-kuruppu/DIP_Final_Project_Document): Discussing the implementation and significance of the algorithm.
 
 ## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
 
-## 🏆 Achievements
-
-- Mention any awards, certifications, or achievements you're proud of.
-
-## 🌐 Find Me Online
-
-- [Personal Website](https://www.yourwebsite.com)
-- [Dev.to](https://dev.to/yourusername)
-- [Twitter](https://twitter.com/yourusername)
+<!-- Footer Section -->
+<br>
+<p align="center">
+  <a href="https://github.com/sanugakuruppu"><img src="https://img.shields.io/github/followers/sanugakuruppu?label=Follow%20Me&style=social"></a>
+</p>
